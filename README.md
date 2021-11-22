@@ -1,2 +1,2 @@
-# dio-desafio-git-github-primeiro-repositorio
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto da DIO sobre Git/Github 
+Repositório criado para o desafio --Projeto Relógio Digital e/ou Analógico--
